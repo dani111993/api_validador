@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+torch
+torchvision
+transformers
+opencv-python-headless
+easyocr
+pymupdf
+diot
+pillow
+numpy
+ollama
